@@ -29,6 +29,13 @@ Olá, me chamo Vinicius e sou um entusiasta da programação, procuro evoluir co
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" alt="js" style="vertical-align:top; margin:4px">
+  
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="js" style="vertical-align:top; margin:4px">
+
+  
+  
 
  
 
