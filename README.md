@@ -1,4 +1,4 @@
-![Welcome](helloworld(1).png?raw=true)
+![Welcome](HelloWorld.png?raw=true)
 
 ### Hi there 👋
 
